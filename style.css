@@ -369,7 +369,7 @@ border: 2px solid #a93368;
     /* align-items: center; */
     /* justify-content: space-between; */
     top: 0px;
-    gap: 10px;
+    /* gap: 10px; */
     
 
 }
@@ -380,7 +380,7 @@ border: 2px solid #a93368;
     flex-shrink: 0;
     /* background-color: blueviolet; */
     border-radius: 100px;
-    margin: 10px 10px;
+    margin: 8px 10px;
 }
 .postprofilephoto img{
     height: 100%;

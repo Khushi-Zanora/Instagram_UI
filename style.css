@@ -380,7 +380,7 @@ border: 2px solid #a93368;
     flex-shrink: 0;
     /* background-color: blueviolet; */
     border-radius: 100px;
-    margin: 8px 10px;
+    margin: 8px 8px;
 }
 .postprofilephoto img{
     height: 100%;
@@ -393,10 +393,10 @@ border: 2px solid #a93368;
     height: 100%;
     width: 100%;
     /* background-color: #F1344C; */
-    display: flex;
-    /* align-items:center; */
-    /* margin-bottom: 10px ; */
-    top: 0;
+}
+
+.postprofilename h1{
+    font-weight: 400;
 }
 
 .postphoto{
@@ -460,5 +460,8 @@ border: 2px solid #a93368;
 .captionn{
     height: 60%;
     width: 100%;
+}
 
+.captionn h3{
+    font-weight: 400;
 }
